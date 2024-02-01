@@ -18,3 +18,5 @@ return $responses[0]->ok() &&
        $responses[1]->ok() &&
        $responses[2]->ok();
 ```
+
+[На главную Асинхронность](main.md)
