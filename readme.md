@@ -6,3 +6,4 @@
 #### 5. [ElasticSearch, Logstash и Kibana](./elk/main.md)
 #### 6. [Блокировка БД](./db-blocks/main.md)
 #### 7. [OWASP (Open Web Application Security Project)](./owasp/main.md)
+#### 8. [DDD](./ddd/main.md)
