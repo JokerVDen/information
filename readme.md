@@ -4,3 +4,4 @@
 #### 4. [Кеширование](./cache/main.md)
 #### 5. [Redis](./redis/main.md)
 #### 5. [ElasticSearch, Logstash и Kibana](./elk/main.md)
+#### 6. [Блокировка БД](./db-blocks/main.md)
