@@ -7,3 +7,4 @@
 #### 6. [Блокировка БД](./db-blocks/main.md)
 #### 7. [OWASP (Open Web Application Security Project)](./owasp/main.md)
 #### 8. [DDD](./ddd/main.md)
+#### 8. [DDD](./ddd/main.md)
